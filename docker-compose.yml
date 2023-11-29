@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  enterprisestore.mvc:
+    build:
+      context: ./src/EnterpriseStore.MVC
+      dockerfile: Dockerfile
+    ports:
+      - "5017:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    depends_on:
+      - db
+
+  db:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: enterpriseDB123
+      MYSQL_DATABASE: enterprisestore
+    ports:
+      - "3310:3306"
+    volumes:
+      - db-data:/var/lib/mysql
+
+volumes:
+  db-data:

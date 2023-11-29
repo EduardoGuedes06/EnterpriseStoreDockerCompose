@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3l7/M28VRsjd5fkc8J77KVQUToEvoGGNjnbCvhpHJs0xO3jYna5c8uh+vzfNk2VGqRJk9vBwWRS9r+2iFPN8fA==",
+  "success": true,
+  "projectFilePath": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.Service\\EnterpriseStore.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

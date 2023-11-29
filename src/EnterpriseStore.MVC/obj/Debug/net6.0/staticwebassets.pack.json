@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnterpriseStore.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EnterpriseStore.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\1f11c36b-8e3b-4aa6-b4e2-84ad298e7f9c_DEM331TD1Image-LSide.png",
+      "PackagePath": "staticwebassets\\imagens\\1f11c36b-8e3b-4aa6-b4e2-84ad298e7f9c_DEM331TD1Image-LSide.png"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg",
+      "PackagePath": "staticwebassets\\imagens\\2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\39279e57-5ee9-496a-86dc-84176803e5c9_Java.jpg",
+      "PackagePath": "staticwebassets\\imagens\\39279e57-5ee9-496a-86dc-84176803e5c9_Java.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\436b6f86-5ee8-4e00-b6cc-a39e2ad34e55_Galaxy A23.png",
+      "PackagePath": "staticwebassets\\imagens\\436b6f86-5ee8-4e00-b6cc-a39e2ad34e55_Galaxy A23.png"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg",
+      "PackagePath": "staticwebassets\\imagens\\4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\6ba49f3f-f55a-4505-86c2-f4e58ad86c62_Python.jpg",
+      "PackagePath": "staticwebassets\\imagens\\6ba49f3f-f55a-4505-86c2-f4e58ad86c62_Python.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\6dc2f7fa-721a-4e3c-9976-b1ee1ec1e9ef_TE_90S_plus_Pt_0001.png",
+      "PackagePath": "staticwebassets\\imagens\\6dc2f7fa-721a-4e3c-9976-b1ee1ec1e9ef_TE_90S_plus_Pt_0001.png"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg",
+      "PackagePath": "staticwebassets\\imagens\\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\76249a21-15ee-474c-ad22-7c784dd893a8_7800-02.jpg",
+      "PackagePath": "staticwebassets\\imagens\\76249a21-15ee-474c-ad22-7c784dd893a8_7800-02.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png",
+      "PackagePath": "staticwebassets\\imagens\\9784a3b1-4acf-4489-8038-a675b39b5bad_homem-aranha-mascara-003.png"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg",
+      "PackagePath": "staticwebassets\\imagens\\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg",
+      "PackagePath": "staticwebassets\\imagens\\cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\d3254928-9095-4cc4-873b-d03ce2f0f680_nokia.png",
+      "PackagePath": "staticwebassets\\imagens\\d3254928-9095-4cc4-873b-d03ce2f0f680_nokia.png"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\imagens\\eae093c6-28a4-4a96-bb16-a8f411a7a2f6_CSS.jpg",
+      "PackagePath": "staticwebassets\\imagens\\eae093c6-28a4-4a96-bb16-a8f411a7a2f6_CSS.jpg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AMBIENTE DEV\\29.11\\EnterpriseStore-main\\EnterpriseStore-main\\src\\EnterpriseStore.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EnterpriseStore.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EnterpriseStore.MVC.props",
+      "PackagePath": "build\\EnterpriseStore.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EnterpriseStore.MVC.props",
+      "PackagePath": "buildMultiTargeting\\EnterpriseStore.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EnterpriseStore.MVC.props",
+      "PackagePath": "buildTransitive\\EnterpriseStore.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
