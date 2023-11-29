@@ -15,7 +15,7 @@ services:
   db:
     image: mysql
     environment:
-      MYSQL_ROOT_PASSWORD: enterpriseDB123
+      MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: enterprisestore
     ports:
       - "3310:3306"
