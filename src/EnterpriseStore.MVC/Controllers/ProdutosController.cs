@@ -63,7 +63,7 @@ namespace EnterpriseStore.MVC.Controllers
             return View(produtoViewModel);
         }
 
-        [ClaimsAuthorize("Produto", "Adicionar")]
+        //[ClaimsAuthorize("Produto", "Adicionar")]
         [Route("novo-produto")]
         [HttpPost]
         public async Task<IActionResult> Create(ProdutoViewModel produtoViewModel)
